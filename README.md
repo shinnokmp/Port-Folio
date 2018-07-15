@@ -2,12 +2,12 @@
 
 ## Table of Contents
 
-* [Getting Started](#Getting Started)
-* [Contributing](#contributing)
+* [Instructions](#Instructions)
+* [Contributing](#Contributing)
 * [Summary](#Summary)
 * [LINK TO PAGE ON GITHUB PAGES](https://shinnokmp.github.io/Port-Folio/)
 
-## Getting Started
+## Instructions
 
 To start with, this is my Port Folio page, showcasing my different repositories which have been created so far. The page is always going to be under development as SHINNOK ICT SOLUTIONS will continuously engage in different projects (both privately and commercial). All links to projects carried out on the repository will be posted on this page.
 
