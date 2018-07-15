@@ -1,0 +1,35 @@
+/*Changing the view of the footer to block pattern to align components in a vertical linear manner*/
+footer {
+    max-width: 100%;
+    display: block;
+}
+
+.jobs {
+    display: block;
+    max-width: 100%;
+}
+
+.one, .two, .three {
+    text-align: center;
+    width: 100%;
+    margin: auto;
+}
+
+/*Reassigning the size of the elements for compatibility*/
+a {
+    max-width: 20%;
+}
+
+#name {
+    font-size: 20px;
+    line-height: 1.24em;
+    color: white;
+    margin: auto;
+}
+
+.company {
+    font-size: 12px;
+    line-height: 1.2em;
+    margin: auto;
+    color: grey;
+}

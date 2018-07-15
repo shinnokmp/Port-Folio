@@ -1,0 +1,132 @@
+/*Header bearing logo as a link and developer name*/
+header {
+    max-width: 100%;
+    display: block;
+}
+
+.description {
+    max-width: 100%;
+    background-color: #330505;
+    display: flex;
+}
+
+a {
+    font-family: "Times New Roman", Times, serif;
+    max-width: 12%;
+}
+
+.responsive {
+    max-width: 100%;
+}
+
+.owner-holder {
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: 0px;
+    display: block;
+    align-self: center;
+}
+
+.owner {
+    max-width: 100%;
+    text-align: right;
+    color: white;
+    display: block;
+}
+
+#name {
+    font-size: 60px;
+    line-height: 1.25em;
+    margin: auto;
+}
+
+.company {
+    font-size: 18px;
+    line-height: 1.25em;
+    margin: auto;
+    color: grey;
+}
+
+/*The main body of the page*/
+main {
+    max-width: 100%;
+}
+
+.overcast {
+    display: block;
+    text-align: center;
+}
+
+aside {
+    max-width: 100%;
+    align-items: center;
+    display: flex;
+}
+
+.feature-color {
+    font-size: 16px;
+    color: grey;
+    margin: 5px;
+}
+
+.box {
+    max-width: 50px;
+    min-height: 50px;
+}
+
+/*Applying different color pallettes to boxes in the main body*/
+.red {
+    background-color: #330505;
+    width: 30%;
+}
+
+.blue {
+    background-color: blue;
+    width: 30%;
+}
+
+.yellow {
+    background-color: yellow;
+    width: 30%;
+}
+
+/*The footer bearing the links to different projects carried out by me*/
+.feature {
+    font-size: 24px;
+    line-height: 1.4em;
+    color: grey;
+}
+
+/*Class controlling the alignment of the contents, setting to flex*/
+.align {
+    margin: auto;
+}
+
+.jobs {
+    width: 100%;
+    display: flex;
+}
+
+.one, .two {
+    text-align: center;
+    width: 33%;
+    margin-right: 3px;
+}
+
+.three {
+    text-align: center;
+    width: 33%;
+}
+
+/*Footnotes*/
+.credits {
+    text-align: center;
+}
+
+h1 {
+    font-family: "Cambria";
+}
+
+p {
+    font-family: "Times New Roman", Times, serif;
+}

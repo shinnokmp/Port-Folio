@@ -1,0 +1,40 @@
+/*Setting width size and adding margin*/
+header, footer, main {
+    max-width: 800px;
+    margin: auto;
+}
+
+/*Reassigning order and width of contents of the element*/
+aside {
+    width: 10%;
+    display: block;
+    order: -1;
+}
+
+.bg{
+    width: 90%;
+    order: 1;
+    max-width: 700px;
+    max-height: 800px;
+}
+
+/*Changing the display style to conform with mockup rubrics*/
+.overcast {
+    margin: auto;
+    max-width: 800px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/*Defining the new dimensions for the boxes bearing colors to conform with the viewport*/
+.red {
+    width: 50px;
+}
+
+.blue {
+    width: 50px;
+}
+
+.yellow {
+    width: 50px;
+}
