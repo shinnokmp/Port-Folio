@@ -17,10 +17,10 @@ This page is written with just HTML and CSS, hopefully JS will be added soon to 
 
 This code is an open source code and as such you are free to make changes and suggestions to improve the project or the coder or it can be used for academic purposes. If you desire to contact us, just drop a message or follow me on any of the social network channels listed below.
 
-[EMAIL](mailto:shinnokswagg@gmail.com)
-[FaceBook](http://fb.com/shinnok31)
-[Twitter](http://twitter.com/st_shinnok)
-[GitHub](github.com/shinnokmp)
+[EMAIL](mailto:shinnokswagg@gmail.com)  
+[FaceBook](http://fb.com/shinnok31) 
+[Twitter](http://twitter.com/st_shinnok)  
+[GitHub](http://github.com/shinnokmp)
 
 ## Summary
 
