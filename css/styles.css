@@ -1,7 +1,6 @@
 /*Header bearing logo as a link and developer name*/
 header {
     max-width: 100%;
-    display: block;
 }
 
 .description {
@@ -107,7 +106,8 @@ aside {
     display: flex;
 }
 
-.one, .two {
+.one,
+.two {
     text-align: center;
     width: 33%;
     margin-right: 3px;
