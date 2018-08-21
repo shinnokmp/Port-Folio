@@ -130,3 +130,12 @@ h1 {
 p {
     font-family: "Times New Roman", Times, serif;
 }
+
+.inner {
+    margin: 3%;
+}
+
+#undo {
+    color: white;
+    text-decoration: underline;
+}
